@@ -14,4 +14,5 @@ Aim of the project is to
 The project is based on:
 - MinIMU-9-Arduino-AHRS (https://github.com/pololu/minimu-9-ahrs-arduino)
 - FAT16 library (mainly for low memory consumption + easy way to append to files) (https://github.com/greiman/Fat16/tree/master/Fat16)
+- Sparkfun BMP 180 library (https://github.com/sparkfun/BMP180_Breakout_Arduino_Library)
 
