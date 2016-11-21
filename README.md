@@ -11,4 +11,7 @@ Aim of the project is to
 - trigger parachute release mechanism (based on servo)
 - log everything to SD
 
+The project is based on:
+- MinIMU-9-Arduino-AHRS (https://github.com/pololu/minimu-9-ahrs-arduino)
+- FAT16 library (mainly for low memory consumption + easy way to append to files) (https://github.com/greiman/Fat16/tree/master/Fat16)
 
