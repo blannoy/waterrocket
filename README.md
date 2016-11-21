@@ -8,5 +8,7 @@ This is the code of an Arduino project that contains
 Aim of the project is to
 - detect launch
 - detect highest altitude
+- trigger parachute release mechanism (based on servo)
 - log everything to SD
+
 
