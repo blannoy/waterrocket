@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xml="http://www.w3.org/XML/1998/namespace" id="0" width="1.18383in" height="1.97342in" gorn="0" xml:space="preserve" version="1.2" y="0px"  x="0px" viewBox="0 0 85.236 142.086" baseProfile="tiny">
+    <desc id="0.0" >
+        <referenceFile id="0.0.0" >breadboard.svg</referenceFile>
+    </desc>
+    <rect id="background" fill="#3B56A6" width="85.236" height="134.929" gorn="0.1" y="6.874"  x="0"/>
+    <path id="0.2" d="M68.908-0.284c-2.78,12.543-13.492,21.893-26.291,21.893s-23.51-9.35-26.289-21.893H2.007v83.642H83.23V-0.284H68.908z" fill="#9B9DA0" gorn="0.2" />
+    <g id="0.3" gorn="0.3" >
+        <rect id="0.3.0" fill="#A19A35" width="5.668" height="8.504" gorn="0.3.0" y="97.635"  x="4.334"/>
+        <rect id="0.3.1" fill="#A19A35" width="5.668" height="8.504" gorn="0.3.1" y="93.639"  x="37.098"/>
+        <rect id="0.3.2" width="4.252" height="5.67" gorn="0.3.2" y="95.055"  x="46.018"/>
+        <rect id="0.3.3" width="4.252" height="5.67" gorn="0.3.3" y="95.055"  x="70.652"/>
+        <rect id="0.3.4" width="4.252" height="5.67" gorn="0.3.4" y="95.055"  x="62.44"/>
+        <rect id="0.3.5" width="4.252" height="5.67" gorn="0.3.5" y="95.055"  x="54.229"/>
+        <rect id="0.3.6" width="8.041" height="15.204" gorn="0.3.6" y="94.285"  x="13.555"/>
+    </g>
+    <g id="0.4" gorn="0.4" >
+        <g transform="matrix(4.489659e-11 -1 1 4.489659e-11 18.4187 123.8574)" >
+            <text font-family="OCRA" id="0.4.0" fill="#FFFFFF" font-size="4" gorn="0.4.0.0" >GND</text>
+        </g>
+        <g transform="matrix(4.489659e-11 -1 1 4.489659e-11 25.6189 123.8574)" >
+            <text font-family="OCRA" id="0.4.1" fill="#FFFFFF" font-size="4" gorn="0.4.1.0" >+3.3</text>
+        </g>
+        <g transform="matrix(4.489659e-11 -1 1 4.489659e-11 32.8181 123.8574)" >
+            <text font-family="OCRA" id="0.4.2" fill="#FFFFFF" font-size="4" gorn="0.4.2.0" >+5</text>
+        </g>
+        <g transform="matrix(4.489659e-11 -1 1 4.489659e-11 40.0183 123.8574)" >
+            <text font-family="OCRA" id="0.4.3" fill="#FFFFFF" font-size="4" gorn="0.4.3.0" >CS</text>
+        </g>
+        <g transform="matrix(4.489659e-11 -1 1 4.489659e-11 47.2185 123.8574)" >
+            <text font-family="OCRA" id="0.4.4" fill="#FFFFFF" font-size="4" gorn="0.4.4.0" >MOSI</text>
+        </g>
+        <g transform="matrix(4.489659e-11 -1 1 4.489659e-11 54.4187 123.8574)" >
+            <text font-family="OCRA" id="0.4.5" fill="#FFFFFF" font-size="4" gorn="0.4.5.0" >SCK</text>
+        </g>
+        <g transform="matrix(4.489659e-11 -1 1 4.489659e-11 61.6179 123.8574)" >
+            <text font-family="OCRA" id="0.4.6" fill="#FFFFFF" font-size="4" gorn="0.4.6.0" >MISO</text>
+        </g>
+        <g transform="matrix(4.489659e-11 -1 1 4.489659e-11 68.8181 123.8574)" >
+            <text font-family="OCRA" id="0.4.7" fill="#FFFFFF" font-size="4" gorn="0.4.7.0" >GND</text>
+        </g>
+    </g>
+    <rect id="silkscreen" fill="none" width="85.236" height="134.929" gorn="0.5" y="6.874"  x="0"/>
+    <g id="copper1" gorn="0.6" >
+        <g id="0.6.0" gorn="0.6.0" >
+            <circle cx="17.418" id="0.6.0.0" fill="#95979A" gorn="0.6.0.0"  cy="128.857" r="2.834"/>
+            <circle cx="17.418" id="0.6.0.1" fill="#FFFFFF" gorn="0.6.0.1"  cy="128.856" r="1.417"/>
+        </g>
+        <g id="0.6.1" gorn="0.6.1" >
+            <circle cx="24.619" id="0.6.1.0" fill="#95979A" gorn="0.6.1.0"  cy="128.857" r="2.834"/>
+            <circle cx="24.619" id="0.6.1.1" fill="#FFFFFF" gorn="0.6.1.1"  cy="128.856" r="1.417"/>
+        </g>
+        <g id="0.6.2" gorn="0.6.2" >
+            <circle cx="31.818" id="0.6.2.0" fill="#95979A" gorn="0.6.2.0"  cy="128.857" r="2.834"/>
+            <circle cx="31.818" id="0.6.2.1" fill="#FFFFFF" gorn="0.6.2.1"  cy="128.856" r="1.417"/>
+        </g>
+        <g id="0.6.3" gorn="0.6.3" >
+            <circle cx="39.018" id="0.6.3.0" fill="#95979A" gorn="0.6.3.0"  cy="128.857" r="2.834"/>
+            <circle cx="39.018" id="0.6.3.1" fill="#FFFFFF" gorn="0.6.3.1"  cy="128.856" r="1.417"/>
+        </g>
+        <g id="0.6.4" gorn="0.6.4" >
+            <circle cx="46.218" id="0.6.4.0" fill="#95979A" gorn="0.6.4.0"  cy="128.857" r="2.834"/>
+            <circle cx="46.218" id="0.6.4.1" fill="#FFFFFF" gorn="0.6.4.1"  cy="128.856" r="1.417"/>
+        </g>
+        <g id="0.6.5" gorn="0.6.5" >
+            <circle cx="53.418" id="0.6.5.0" fill="#95979A" gorn="0.6.5.0"  cy="128.857" r="2.834"/>
+            <circle cx="53.418" id="0.6.5.1" fill="#FFFFFF" gorn="0.6.5.1"  cy="128.856" r="1.417"/>
+        </g>
+        <g id="0.6.6" gorn="0.6.6" >
+            <circle cx="60.618" id="0.6.6.0" fill="#95979A" gorn="0.6.6.0"  cy="128.857" r="2.834"/>
+            <circle cx="60.618" id="0.6.6.1" fill="#FFFFFF" gorn="0.6.6.1"  cy="128.856" r="1.417"/>
+        </g>
+        <g id="0.6.7" gorn="0.6.7" >
+            <circle cx="67.818" id="0.6.7.0" fill="#95979A" gorn="0.6.7.0"  cy="128.857" r="2.834"/>
+            <circle cx="67.818" id="0.6.7.1" fill="#FFFFFF" gorn="0.6.7.1"  cy="128.856" r="1.417"/>
+        </g>
+        <g id="0.6.8" gorn="0.6.8" >
+            <circle cx="17.418" id="0.6.8.0" fill="#95979A" gorn="0.6.8.0"  cy="136.057" r="2.834"/>
+            <circle cx="17.418" id="connector0pin" fill="#FFFFFF" gorn="0.6.8.1"  cy="136.058" r="1.417"/>
+        </g>
+        <g id="0.6.9" gorn="0.6.9" >
+            <circle cx="24.619" id="0.6.9.0" fill="#95979A" gorn="0.6.9.0"  cy="136.057" r="2.834"/>
+            <circle cx="24.619" id="connector1pin" fill="#FFFFFF" gorn="0.6.9.1"  cy="136.058" r="1.417"/>
+        </g>
+        <g id="0.6.10" gorn="0.6.10" >
+            <circle cx="31.818" id="0.6.10.0" fill="#95979A" gorn="0.6.10.0"  cy="136.057" r="2.834"/>
+            <circle cx="31.818" id="connector2pin" fill="#FFFFFF" gorn="0.6.10.1"  cy="136.058" r="1.417"/>
+        </g>
+        <g id="0.6.11" gorn="0.6.11" >
+            <circle cx="39.018" id="0.6.11.0" fill="#95979A" gorn="0.6.11.0"  cy="136.057" r="2.834"/>
+            <circle cx="39.018" id="connector3pin" fill="#FFFFFF" gorn="0.6.11.1"  cy="136.058" r="1.417"/>
+        </g>
+        <g id="0.6.12" gorn="0.6.12" >
+            <circle cx="46.218" id="0.6.12.0" fill="#95979A" gorn="0.6.12.0"  cy="136.057" r="2.834"/>
+            <circle cx="46.218" id="connector4pin" fill="#FFFFFF" gorn="0.6.12.1"  cy="136.058" r="1.417"/>
+        </g>
+        <g id="0.6.13" gorn="0.6.13" >
+            <circle cx="53.418" id="0.6.13.0" fill="#95979A" gorn="0.6.13.0"  cy="136.057" r="2.834"/>
+            <circle cx="53.418" id="connector5pin" fill="#FFFFFF" gorn="0.6.13.1"  cy="136.058" r="1.417"/>
+        </g>
+        <g id="0.6.14" gorn="0.6.14" >
+            <circle cx="60.618" id="0.6.14.0" fill="#95979A" gorn="0.6.14.0"  cy="136.057" r="2.834"/>
+            <circle cx="60.618" id="connector6pin" fill="#FFFFFF" gorn="0.6.14.1"  cy="136.058" r="1.417"/>
+        </g>
+        <g id="0.6.15" gorn="0.6.15" >
+            <circle cx="67.818" id="0.6.15.0" fill="#95979A" gorn="0.6.15.0"  cy="136.057" r="2.834"/>
+            <circle cx="67.818" id="connector7pin" fill="#FFFFFF" gorn="0.6.15.1"  cy="136.058" r="1.417"/>
+        </g>
+    </g>
+</svg>

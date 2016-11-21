@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" x="0in" width="1.1in" height="1in" y="0in" gorn="0" viewBox="0 0 27.94 25.4"  id="svg7567" version="1.2">
+    <metadata  id="metadata7635">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs7633"/>
+    <desc  id="desc7569">
+        <referenceFile  id="referenceFile7571">ADXL345-BreakoutBoard-v13_schematic.svg</referenceFile>
+    </desc>
+    <rect stroke-width="0.3175" style="stroke-linecap:round" x="5.23875" fill="#ffffff" width="17.4625" height="14.9225" y="5.23875" gorn="0.3"  stroke="#000000" class="interior rect" id="rect7574"/>
+    <line y1="10.16" stroke-width="0.246944" style="stroke-linecap:round" fill="none" x1="22.7365" gorn="0.4" y2="10.16" x2="27.8165"  stroke="#787878" class="pin" id="connector11pin"/>
+    <text style="text-anchor:end;font-family:Droid Sans" x="22.242599" fill="#8c8c8c" y="10.4069" gorn="0.5"  stroke="none" class="text" id="text7577" font-size="0.348465">SDO</text>
+    <rect x="27.8165" fill="none" width="0.246944" height="0.246944" gorn="0.6" y="10.0365"  stroke="none" class="terminal" id="connector11terminal"/>
+    <line y1="12.7" stroke-width="0.246944" style="stroke-linecap:round" fill="none" x1="22.7365" gorn="0.7" y2="12.7" x2="27.8165"  stroke="#787878" class="pin" id="connector12pin"/>
+    <text style="text-anchor:end;font-family:Droid Sans" x="22.242599" fill="#8c8c8c" y="12.9469" gorn="0.8"  stroke="none" class="text" id="text7581" font-size="0.348465">SDA</text>
+    <rect x="27.8165" fill="none" width="0.246944" height="0.246944" gorn="0.9" y="12.5765"  stroke="none" class="terminal" id="connector12terminal"/>
+    <line y1="15.24" stroke-width="0.246944" style="stroke-linecap:round" fill="none" x1="22.7365" gorn="0.10" y2="15.24" x2="27.8165"  stroke="#787878" class="pin" id="connector13pin"/>
+    <text style="text-anchor:end;font-family:Droid Sans" x="22.242599" fill="#8c8c8c" y="15.4869" gorn="0.11"  stroke="none" class="text" id="text7585" font-size="0.348465">SCL</text>
+    <rect x="27.8165" fill="none" width="0.246944" height="0.246944" gorn="0.12" y="15.1165"  stroke="none" class="terminal" id="connector13terminal"/>
+    <rect x="-0.123472" fill="none" width="0.246944" height="0.246944" gorn="0.13" y="10.0365"  stroke="none" class="terminal" id="connector8terminal"/>
+    <line y1="12.7" stroke-width="0.246944" style="stroke-linecap:round" fill="none" x1="0.123472" gorn="0.14" y2="12.7" x2="5.2034702"  stroke="#787878" class="pin" id="connector9pin"/>
+    <text style="text-anchor:start;font-family:Droid Sans" x="5.69736" fill="#8c8c8c" y="12.9469" gorn="0.15"  stroke="none" class="text" id="text7593" font-size="0.348465">CS1</text>
+    <rect x="-0.123472" fill="none" width="0.246944" height="0.246944" gorn="0.16" y="12.5765"  stroke="none" class="terminal" id="connector9terminal"/>
+    <line y1="15.24" stroke-width="0.246944" style="stroke-linecap:round" fill="none" x1="0.123472" gorn="0.17" y2="15.24" x2="5.2034702"  stroke="#787878" class="pin" id="connector10pin"/>
+    <text style="text-anchor:start;font-family:Droid Sans" x="5.69736" fill="#8c8c8c" y="15.4869" gorn="0.18"  stroke="none" class="text" id="text7597" font-size="0.348465">CS2</text>
+    <rect x="-0.123472" fill="none" width="0.246944" height="0.246944" gorn="0.19" y="15.1165"  stroke="none" class="terminal" id="connector10terminal"/>
+    <line y1="20.196501" stroke-width="0.246944" style="stroke-linecap:round" fill="none" x1="12.7" gorn="0.20" y2="25.276501" x2="12.7"  stroke="#787878" class="pin" id="connector6pin"/>
+    <g transform="translate(12.9469,19.7026)" >
+        <g >
+            <g gorn="0.21.0.0"  id="g7601">
+                <g gorn="0.21.0.0.0"  id="g7603">
+                    <g transform="matrix(0,-1,1,0,0,0)" >
+                        <g >
+                            <g gorn="0.21.0.0.0.0.0.0"  id="g7605">
+                                <g gorn="0.21.0.0.0.0.0.0.0"  id="g7607">
+                                    <text style="text-anchor:start;font-family:Droid Sans" x="0" fill="#8c8c8c" y="0" gorn="0.21.0.0.0.0.0.0.0.0"  stroke="none" class="text" id="text7609" font-size="0.348465">GND</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <rect x="12.5765" fill="none" width="0.246944" height="0.246944" gorn="0.22" y="25.276501"  stroke="none" class="terminal" id="connector6terminal"/>
+    <line y1="0.123472" stroke-width="0.246944" style="stroke-linecap:round" fill="none" x1="12.7" gorn="0.23" y2="5.2034702" x2="12.7"  stroke="#787878" class="pin" id="connector7pin"/>
+    <g transform="translate(12.9469,5.69736)" >
+        <g >
+            <g gorn="0.24.0.0"  id="g7613">
+                <g gorn="0.24.0.0.0"  id="g7615">
+                    <g transform="matrix(0,-1,1,0,0,0)" >
+                        <g >
+                            <g gorn="0.24.0.0.0.0.0.0"  id="g7617">
+                                <g gorn="0.24.0.0.0.0.0.0.0"  id="g7619">
+                                    <text style="text-anchor:end;font-family:Droid Sans" x="0" fill="#8c8c8c" y="0" gorn="0.24.0.0.0.0.0.0.0.0"  stroke="none" class="text" id="text7621" font-size="0.348465">VIN</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <rect x="12.5765" fill="none" width="0.246944" height="0.246944" gorn="0.25" y="-0.123472"  stroke="none" class="terminal" id="connector7terminal"/>
+    <text style="text-anchor:middle;font-family:Droid Sans" x="14.1288" fill="#000000" gorn="0.26" y="9.8719397"  stroke="none" class="text" id="label" font-size="0.423139">Triple Axis</text>
+    <text style="text-anchor:middle;font-family:Droid Sans" x="14.1288" fill="#000000" gorn="0.27" y="11.4712"  stroke="none" class="text" id="text7625" font-size="0.423139">Accelerometer</text>
+    <text style="text-anchor:middle;font-family:Droid Sans" x="14.1288" fill="#000000" gorn="0.28" y="13.0706"  stroke="none" class="text" id="text7627" font-size="0.423139">Gyroscope</text>
+    <text style="text-anchor:middle;font-family:Droid Sans" x="14.1288" fill="#000000" gorn="0.29" y="14.6699"  stroke="none" class="text" id="text7629" font-size="0.423139">Pressure</text>
+    <line y1="0.043051738" stroke-width="0.246944" style="stroke-linecap:round" fill="none" x1="15.120415" gorn="0.30" y2="5.1230497" x2="15.120415"  stroke="#787878" class="pin" id="connector7pin-4"/>
+    <g transform="translate(15.76912,5.69736)" >
+        <g >
+            <g gorn="0.31.0.0"  id="g7692">
+                <g gorn="0.31.0.0.0"  id="g7694">
+                    <g transform="matrix(0,-1,1,0,0,0)" >
+                        <g >
+                            <g gorn="0.31.0.0.0.0.0.0"  id="g7696">
+                                <g gorn="0.31.0.0.0.0.0.0.0"  id="g7698">
+                                    <text x="0" style="text-anchor:end;font-family:Droid Sans" fill="#8c8c8c" y="0" gorn="0.31.0.0.0.0.0.0.0.0"  stroke="none" class="text" font-size="0.348465" id="text7700">3V3</text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

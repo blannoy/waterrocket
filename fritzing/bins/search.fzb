@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="sd">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="15719464aa8d63048081b2444ea6d39c" modelIndex="6844" path="D:/Tools/fritzing/fritzing-parts/core/microSD-socket-molex-502774-0891.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-ISD1900-ISD1932" modelIndex="6845" path="D:/Tools/fritzing/fritzing-parts/core/sparkfun-digitalic-isd1900-isd1932.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="blueIOT_Rc1-final" modelIndex="6847" path="D:/Tools/fritzing/fritzing-parts/core/blueIOT_Rc1-final.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo-(simple)" modelIndex="6848" path="D:/Tools/fritzing/fritzing-parts/core/intel-arduino_galileo-simple.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Rotoshield-1.0a" modelIndex="6849" path="D:/Tools/fritzing/fritzing-parts/core/Rotoshield-1.0a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino DUE V02b" modelIndex="6851" path="D:/Tools/fritzing/fritzing-parts/core/Arduino_DUE_V02b.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_ADK_MEGA_2560-Rev3(fix)" modelIndex="6852" path="D:/Tools/fritzing/fritzing-parts/core/Arduino_ADK_MEGA_2560-Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_Yun(rev1)_v1" modelIndex="6853" path="D:/Tools/fritzing/fritzing-parts/core/arduino_Yun(rev1)_v1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="asdfRevEd_DS1302" modelIndex="6854" path="D:/Tools/fritzing/fritzing-parts/core/SMD_DS1302.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_Uno_Rev3(fix)" modelIndex="6856" path="D:/Tools/fritzing/fritzing-parts/core/arduino_Uno_Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USD-SOCKET-USD" modelIndex="6857" path="D:/Tools/fritzing/fritzing-parts/core/sparkfun-connectors-usd-socket-usd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MPX4250AP_60bfc397c54bae166e67461339be2ca8_4" modelIndex="6859" path="D:/Tools/fritzing/fritzing-parts/core/MPX4250AP pressure sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo_gen2" modelIndex="6861" path="D:/Tools/fritzing/fritzing-parts/core/intel-arduino_galileo_gen2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-SD_CARD_SOCKET-4UCON" modelIndex="6863" path="D:/Tools/fritzing/fritzing-parts/core/sparkfun-connectors-sd_card_socket-4ucon.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="chipkit_WF32" modelIndex="6864" path="D:/Tools/fritzing/fritzing-parts/core/chipkit_WF32.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-SI470X-" modelIndex="6865" path="D:/Tools/fritzing/fritzing-parts/core/sparkfun-rf-si470x-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-ENCODER_RGB_CA-" modelIndex="6867" path="D:/Tools/fritzing/fritzing-parts/core/sparkfun-electromechanical-encoder_rgb_ca-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USD-SOCKET-NEW" modelIndex="6869" path="D:/Tools/fritzing/fritzing-parts/core/sparkfun-connectors-usd-socket-new.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="microSD_Shield-v13" modelIndex="6871" path="D:/Tools/fritzing/fritzing-parts/core/microSD_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-TVS-" modelIndex="6873" path="D:/Tools/fritzing/fritzing-parts/core/sparkfun-discretesemi-tvs-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ISD1932 Breakout-v11" modelIndex="6875" path="D:/Tools/fritzing/fritzing-parts/core/ISD1932 Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="microsdmodule" modelIndex="6877" path="D:/Tools/fritzing/fritzing-parts/core/microsdmodule.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="20A9BBasdfEEasdf34_ST" modelIndex="6879" path="D:/Tools/fritzing/fritzing-parts/core/SMD_pushbutton.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo" modelIndex="6881" path="D:/Tools/fritzing/fritzing-parts/core/intel-arduino_galileo.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_uno(rev3)-icsp_only" modelIndex="6883" path="D:/Tools/fritzing/fritzing-parts/core/arduino_uno(rev3)-icsp(1).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="blueIOT_RevB" modelIndex="6885" path="D:/Tools/fritzing/fritzing-parts/core/Arduino-BLE-LowPower-RevB-final_5.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_ADK_MEGA_2560-Rev3(iscp)" modelIndex="6887" path="D:/Tools/fritzing/fritzing-parts/core/Arduino_ADK_MEGA_2560-Rev3(icsp).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Memoire-1.0" modelIndex="6889" path="D:/Tools/fritzing/fritzing-parts/core/Memoire-1.0.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Wireless_SD_v3" modelIndex="6891" path="D:/Tools/fritzing/fritzing-parts/core/Wireless_SD_v3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-MMBZ27VCLT1-" modelIndex="6892" path="D:/Tools/fritzing/fritzing-parts/core/sparkfun-discretesemi-mmbz27vclt1-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SHT1x-Breakout" modelIndex="6894" path="D:/Tools/fritzing/fritzing-parts/core/SHT1x-Breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo_gen2-(simple)" modelIndex="6896" path="D:/Tools/fritzing/fritzing-parts/core/intel-arduino_galileo_gen2-simple.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="37asdf3c843a342134a0e499f8a0b3ef6aCrystalModuleID" modelIndex="6897" path="D:/Tools/fritzing/fritzing-parts/core/resonator-2pin.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="STM32_Nucleo_board" modelIndex="6899" path="D:/Tools/fritzing/fritzing-parts/core/STM32_Nucleo_board.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_MEGA_2560-Rev3(fix)" modelIndex="6901" path="D:/Tools/fritzing/fritzing-parts/core/Arduino_MEGA_2560-Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RN41-v14" modelIndex="6902" path="D:/Tools/fritzing/fritzing-parts/core/RN41-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-WTV020SD-" modelIndex="6904" path="D:/Tools/fritzing/fritzing-parts/core/sparkfun-digitalic-wtv020sd-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="sx1509-breakout" modelIndex="6906" path="D:/Tools/fritzing/fritzing-parts/core/sx1509-breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="udoo_dual" modelIndex="6908" path="D:/Tools/fritzing/fritzing-parts/core/udoo_dual.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_uno(rev3)-icsp" modelIndex="6909" path="D:/Tools/fritzing/fritzing-parts/core/arduino_uno(rev3)-icsp.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="linino_dogUSB" modelIndex="6911" path="D:/Tools/fritzing/fritzing-parts/core/linino_dogUSB(01).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_CAN-Bus_Shield" modelIndex="6913" path="D:/Tools/fritzing/fritzing-parts/core/SparkFun_CAN-Bus_Shield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-MAX7456-" modelIndex="6915" path="D:/Tools/fritzing/fritzing-parts/core/sparkfun-digitalic-max7456-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="d30f97b6fbe1asdad59ea7f0d636a7a" modelIndex="6917" path="D:/Tools/fritzing/fritzing-parts/core/controller_propeller_D40.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Shield_Eth06-PoE" modelIndex="6918" path="D:/Tools/fritzing/fritzing-parts/core/Shield_Eth06-PoE.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MPR121-Breakout-v13" modelIndex="6919" path="D:/Tools/fritzing/fritzing-parts/core/MPR121-Breakout-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="OpenLog" modelIndex="6921" path="D:/Tools/fritzing/fritzing-parts/core/OpenLog.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Ethernet" modelIndex="6923" path="D:/Tools/fritzing/fritzing-parts/core/Arduino_Ethernet.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="sparkfun_storage_microsd" modelIndex="6924" path="D:/Tools/fritzing/fritzing-parts/core/sparkfun_storage_microsd.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="canbus_shield-v12" modelIndex="6926" path="D:/Tools/fritzing/fritzing-parts/core/canbus_shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DigitalIC-MAX7456-GROUNDPAD" modelIndex="6928" path="D:/Tools/fritzing/fritzing-parts/core/sparkfun-digitalic-max7456-groundpad.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MP3 Shield-v13" modelIndex="6930" path="D:/Tools/fritzing/fritzing-parts/core/MP3 Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="mp3-trigger-v22" modelIndex="6932" path="D:/Tools/fritzing/fritzing-parts/core/mp3-trigger-v22.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="37asdf3c843a2127a0e499f8a0b3ef6aCrystalModuleID" modelIndex="6934" path="D:/Tools/fritzing/fritzing-parts/core/resonator-3pin.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

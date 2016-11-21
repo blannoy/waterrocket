@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="10DOF_99da484c39a332a650e2db62bf382f9b_3" modelIndex="6708" path="D:/Delen/Bobs documenten/Fritzing/parts/user/10DOF_99da484c39a332a650e2db62bf382f9b_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="BL_SD_Card_Module.fzp_84c5675f0313dc7c2b18d98e97031d74_1" modelIndex="6722" path="D:/Delen/Bobs documenten/Fritzing/parts/user/BL_SD_Card_Module.fzp_84c5675f0313dc7c2b18d98e97031d74_1.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
