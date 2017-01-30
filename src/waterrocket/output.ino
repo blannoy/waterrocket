@@ -20,6 +20,7 @@ void log_msg(const __FlashStringHelper* str) {
   }
 }
 
+// log message with timestamp if tStamp=true (to have timestamp at beginning of line)
 void log_msg(const __FlashStringHelper* str, bool tStamp) {
  if (tStamp){
   long curTime=millis();
