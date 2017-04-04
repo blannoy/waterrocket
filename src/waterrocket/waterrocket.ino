@@ -231,9 +231,7 @@ void setup()
   pinMode(BREAKWIRE, INPUT_PULLUP);
   digitalWrite(RED_LED, LOW);
 
-  log_msg(F("Software version "),true);
-  log_msg(VERSION);
-  log_msg(F("\n"),false);
+
 
 // read initialisation vars from beginning of EEPROM
   EEPROM.get(0, vars);
@@ -260,6 +258,9 @@ void setup()
     log_msg(F("\n"),false);
     flashError(6);
   }
+  log_msg(F("Software version "),true);
+  log_msg(VERSION);
+  log_msg(F("\n"),false);
   log_msg(F("---------------------------------\n"),false);
   log_msg(F("start\n"),true);
 
@@ -317,7 +318,7 @@ void setup()
 
 // setup servo
   log_msg(F("Info: attach servo\n"),true);
-  myservo.attach(SERVO_PIN);  // attaches the servo on pin 15 to the servo object
+  myservo.attach(SERVO_PIN);  // attaches the servo on pin 14 to the servo object
   myservo.write(pos);
   
   // check if breakwire open

@@ -61,7 +61,7 @@ void log_msg(double dVal) {
 }
 
 void printdata(void)
-{     file.print(millis()-startLog);
+{     file.print(millis());
       file.print(F(";"));
       file.print(ToDeg(roll));
       file.print(F(";"));
