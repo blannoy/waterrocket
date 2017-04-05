@@ -57,9 +57,10 @@ void readSensor();
 
 // servo is used to release chute
 Servo myservo;  // create servo object to control a servo
-int pos = 0;
-int setAngle=30;
-int prevAngle=0;
+#define ZEROPOS 0
+int pos = ZEROPOS;
+int setAngle=45;
+int prevAngle=ZEROPOS;
 #define SERVO_PIN 14
 
 //button init: button to start calibration & measurement, button circuit to detect breakwire (lift off)
@@ -417,7 +418,7 @@ void loop()
 // deploy chute .5 seconds after maximum height
     if (millis()-state_timer > 500){   
         state=CHUTE;
-        log_msg(F("Info: Deploy chute"),true);        
+        log_msg(F("Info: Deploy chute\n"),true);        
         state_timer=millis();
     }
   }
@@ -457,7 +458,7 @@ void loop()
 
 // chute is closed & we're flying; check if we are paste counter delay; if so move servo
   if ((chute_closed) && (flying) && ((currentMillis - chute_timer) > vars.delay_counter)) {
-    if (pos == 0) {
+    if (pos == ZEROPOS) {
       log_msg(F("Info: Opening chute\n"),true);
       pos = setAngle;
       myservo.write(pos);
@@ -465,7 +466,7 @@ void loop()
     // after 2 seconds move servo back
     if ((pos == setAngle) && (currentMillis - chute_timer > (vars.delay_counter + 2000))) {
       log_msg(F("Info: Closing servo\n"),true);
-      pos = 0;
+      pos = ZEROPOS;
       myservo.write(pos);
       chute_closed = false;
       }
