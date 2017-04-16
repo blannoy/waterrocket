@@ -150,7 +150,7 @@ varStruct vars;
 /*For debugging purposes*/
 //OUTPUTMODE=1 will print the corrected data, 
 //OUTPUTMODE=0 will print uncorrected data of the gyros (with drift)
-#define OUTPUTMODE 0
+#define OUTPUTMODE 1
 
 //#define PRINT_DCM 0     //Will print the whole direction cosine matrix
 //#define PRINT_ANALOGS 0 //Will print the analog raw data
