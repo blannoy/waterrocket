@@ -4,12 +4,14 @@ This is the code of an Arduino project that contains
 * SD card module
 * 10 DOF module with L3GD20, LSM303D, BMP180 (Gyro,Accelerometer,Compass,Altimeter)
 * Servo
+* Bluetooth Low energy module - HC - 08
 
 Aim of the project is to
 - detect launch
 - detect highest altitude
 - trigger parachute release mechanism (based on servo)
 - log everything to SD
+- optional smartphone interface based on App Inventor
 
 The project is based on:
 - MinIMU-9-Arduino-AHRS (https://github.com/pololu/minimu-9-ahrs-arduino)
