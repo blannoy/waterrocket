@@ -47,6 +47,19 @@ void log_msg(int iVal) {
   }
 }
 
+void log_msg(long iVal) {
+ // long curTime=millis();
+//  Serial.print(curTime);
+//  Serial.print(F(":"));
+  Serial.print(iVal);
+  if (file.isOpen()){
+//    file.print(curTime);
+//    file.print(F(":"));
+    file.print(iVal);
+    flush_file(); 
+  }
+}
+
 void log_msg(double dVal) {
  // long curTime=millis();
 //  Serial.print(curTime);
@@ -63,19 +76,15 @@ void log_msg(double dVal) {
 void printdata(void)
 {     file.print(millis());
       file.print(F(";"));
-      file.print(ToDeg(roll));
+  file.print(heightAverage.currentValue);
+  file.print(F(";"));
+  file.print((accelAverage.currentValue-(double)GRAVITY)/(double)GRAVITY);
+  file.print(F(";"));
+      file.print(accel_x/(float)GRAVITY);
       file.print(F(";"));
-      file.print(ToDeg(pitch));
+      file.print(accel_y/(float)GRAVITY);
       file.print(F(";"));
-      file.print(ToDeg(yaw));
-      file.print(F(";"));
-      file.print(a);
-      file.print(F(";"));
-      file.print(accel_x/256.0);
-      file.print(F(";"));
-      file.print(accel_y/256.0);
-      file.print(F(";"));
-      file.print(accel_z/256.0);
+      file.print(accel_z/(float)GRAVITY);
       file.println(F(""));
      flush_file(); 
 }
@@ -89,4 +98,3 @@ void flush_file(){
     nr_entries=0;
   }
 }
-
